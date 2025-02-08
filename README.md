@@ -1,4 +1,2 @@
-# E-COMMERCE SHIPPING DATA
-Sebuah perusahaan e-commerce produk elektronik berbasis Internasional yang memiliki database penting tentang pelanggan mereka. Di dalam dataset database yang mereka miliki terdapat kurang lebih 12 variabel tentang pelanggan mereka.  Dengan adanya dataset yang mereka miliki perusahaan berharap dapat meningkatkan hubungan baik antara perusahaan dan pelanggan 
-
-sumber : https://www.kaggle.com/datasets/prachi13/customer-analytics
+# Retail Store Peformance
+Performa toko ritel dipengaruhi oleh faktor-faktor seperti kondisi ekonomi, lokasi, dan strategi pemasaran. Beberapa toko lebih sensitif terhadap fluktuasi ekonomi, sementara lainnya lebih stabil. Penelitian ini bertujuan untuk mengidentifikasi variabel yang memengaruhi performa toko di berbagai kategori (grocery, elektronik, pakaian) dengan menganalisis data dari dataset "Retail Store Performance" 
